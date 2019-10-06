@@ -18,3 +18,4 @@ Team Name: Hiroaki Igarashi 順位: 1502位
 python work1.py [学習用データ(csv)のパス]
 ```
 ## その他
+学習時のlossとaccuracyの推移（50ステップごと）を出力し，学習が適切に行われているか確認した．
