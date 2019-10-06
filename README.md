@@ -20,3 +20,6 @@ python work1.py [学習用データ(csv)のパス]
 ## その他
 学習時のlossとaccuracyの推移（50ステップごと）を出力し，学習が適切に行われているか確認した．
 
+![スクリーンショット 2019-10-06 19 40 40](https://user-images.githubusercontent.com/22989111/66267893-e1dfcd80-e871-11e9-96ea-010d2b2b5946.png)
+
+![スクリーンショット 2019-10-06 19 40 24](https://user-images.githubusercontent.com/22989111/66267904-f02de980-e871-11e9-8418-7e0ecc0e3bff.png)
