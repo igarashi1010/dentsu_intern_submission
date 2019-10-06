@@ -26,3 +26,8 @@
 python work3.py [Sample.csvのpath] [トピック数]
 ```
 ## その他
+デンドログラム  
+![dendrogram](https://user-images.githubusercontent.com/22989111/66273903-9d752180-e8b3-11e9-831e-7128ce0125e8.png)
+
+クラスタ図  
+![clusters](https://user-images.githubusercontent.com/22989111/66273902-9d752180-e8b3-11e9-87c6-baed6c63a027.png)
