@@ -9,7 +9,8 @@ dateカラムが文字列の為，時系列性を評価するために数値デ�
 学習データとテストデータの偏りによる性能変化に注意するために交差検定を実装した．（学習:テストが4:1になるように分割）
 
 ## モデル構築
-scikit learnのチートシートを用いた．  https://scikit-learn.org/stable/tutorial/machine_learning_map/
+scikit learnのチートシートを用いた．  
+https://scikit-learn.org/stable/tutorial/machine_learning_map/  
 回帰->データ数＜10万ということで，SGDRegressionを選択した．
 
 ## テスト結果
